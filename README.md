@@ -16,8 +16,3 @@ The main reason for the docs is that the course covers:
 2. Web scraping with Beautiful Soup and some Selenium
 3. Flask for building data-driven web apps
 
-I've used books in the past for teaching parts 2 and 3 (notably [Web Scraping with Python](http://shop.oreilly.com/product/0636920078067.do) and [Flask Web Development](http://shop.oreilly.com/product/0636920089056.do)), but this year I've cut back to just the one book.
-
-Rather than try to reconfigure the previous repo, I'm starting from scratch here and building the new repo with an emphasis on the docs.
-
-For the scraping and Flask segments of the course, the docs will be the primary instructional resource.

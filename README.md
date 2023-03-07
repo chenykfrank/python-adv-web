@@ -16,3 +16,5 @@ The main reason for the docs is that the course covers:
 2. Web scraping with Beautiful Soup and some Selenium
 3. Flask for building data-driven web apps
 
+#######
+In this forked repo, I made a new arrangement for part 2 (and probably part 3 later) during my learning process. Check the notebooks and it should be fresher! Have fun.
